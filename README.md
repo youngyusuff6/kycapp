@@ -22,7 +22,7 @@ This is a simple KYC (Know Your Customer) Record Management System implemented i
 ## Installation
 
 1. Clone the repository:
-
+```
    ```bash
    git clone https://github.com/youngyusuff6/kyc_app.git
    ```
